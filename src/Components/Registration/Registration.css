@@ -1,0 +1,21 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.text
+{
+    
+    margin-top: 90px;
+}
+form{
+    margin-top: 40px;
+    display: inline-block;
+    width: 40vh;
+}

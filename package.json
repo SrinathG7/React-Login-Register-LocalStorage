@@ -1,38 +1,54 @@
 {
-  "name": "login-register-page",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+	"homepage": "https://SrinathG7.github.io/React-Login-Register-LocalStorage",
+	"name": "login-register-page",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"@material-ui/core": "^4.12.3",
+		"@material/react-material-icon": "^0.15.0",
+		"@material/textfield": "^12.0.0",
+		"@testing-library/jest-dom": "^5.14.1",
+		"@testing-library/react": "^11.2.7",
+		"@testing-library/user-event": "^12.8.3",
+		"bootstrap": "^5.1.0",
+		"jquery": "^3.6.0",
+		"mdbreact": "^5.1.0",
+		"react": "^17.0.2",
+		"react-bootstrap": "^2.0.0-beta.6",
+		"react-dom": "^17.0.2",
+		"react-native": "^0.65.1",
+		"react-router-dom": "^5.3.0",
+		"react-scripts": "4.0.3",
+		"rn-material-ui-textfield": "^1.0.5",
+		"web-vitals": "^1.1.2"
+	},
+	"scripts": {
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build",
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": [
+			"react-app",
+			"react-app/jest"
+		]
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"devDependencies": {
+		"gh-pages": "^3.2.3"
+	}
 }
