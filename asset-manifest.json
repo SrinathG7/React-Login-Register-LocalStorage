@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Login-Register-LocalStorage/static/css/main.3b919ca4.chunk.css",
+    "main.js": "/React-Login-Register-LocalStorage/static/js/main.d1c60747.chunk.js",
+    "main.js.map": "/React-Login-Register-LocalStorage/static/js/main.d1c60747.chunk.js.map",
+    "runtime-main.js": "/React-Login-Register-LocalStorage/static/js/runtime-main.11f6e9e8.js",
+    "runtime-main.js.map": "/React-Login-Register-LocalStorage/static/js/runtime-main.11f6e9e8.js.map",
+    "static/css/2.983f79de.chunk.css": "/React-Login-Register-LocalStorage/static/css/2.983f79de.chunk.css",
+    "static/js/2.8e11cfea.chunk.js": "/React-Login-Register-LocalStorage/static/js/2.8e11cfea.chunk.js",
+    "static/js/2.8e11cfea.chunk.js.map": "/React-Login-Register-LocalStorage/static/js/2.8e11cfea.chunk.js.map",
+    "static/js/3.d741455b.chunk.js": "/React-Login-Register-LocalStorage/static/js/3.d741455b.chunk.js",
+    "static/js/3.d741455b.chunk.js.map": "/React-Login-Register-LocalStorage/static/js/3.d741455b.chunk.js.map",
+    "index.html": "/React-Login-Register-LocalStorage/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/React-Login-Register-LocalStorage/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.3b919ca4.chunk.css.map": "/React-Login-Register-LocalStorage/static/css/main.3b919ca4.chunk.css.map",
+    "static/js/2.8e11cfea.chunk.js.LICENSE.txt": "/React-Login-Register-LocalStorage/static/js/2.8e11cfea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11f6e9e8.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.8e11cfea.chunk.js",
+    "static/css/main.3b919ca4.chunk.css",
+    "static/js/main.d1c60747.chunk.js"
+  ]
+}
